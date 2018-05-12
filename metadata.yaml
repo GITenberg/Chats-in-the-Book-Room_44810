@@ -1,0 +1,32 @@
+_repo: Chats-in-the-Book-Room_44810
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Evans, Molly
+    gutenberg_agent_id: '43108'
+    url: http://www.gutenberg.org/2009/agents/43108
+covers:
+- cover_type: archival
+  image_path: 44810-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pym, Horace N.
+    alias: Pym, Horatio N.
+    gutenberg_agent_id: '42928'
+    url: http://www.gutenberg.org/2009/agents/42928
+description: ''
+gutenberg_issued: '2014-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44810'
+  lccn: '83144142'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Book collecting'
+- !lcc 'Z'
+- !lcsh 'Books'
+title: Chats in the Book-Room
+url: http://www.gutenberg.org/ebooks/44810
